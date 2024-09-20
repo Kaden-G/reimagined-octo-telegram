@@ -1,0 +1,85 @@
+{
+    "leg": [
+      {
+        "name": "Squats",
+        "instructions": "Stand with feet shoulder-width apart and lower your hips back and down."
+      },
+      {
+        "name": "Lunges",
+        "instructions": "Step forward with one leg and lower your hips until both knees are bent at 90 degrees."
+      },
+      {
+        "name": "Jumping Jacks",
+        "instructions": "Jump to a position with legs spread and hands overhead, then return to the starting position."
+      },
+      {
+        "name": "Calf Raises",
+        "instructions": "Stand on the edge of a step, rise onto your toes, and slowly lower back down."
+      },
+      {
+        "name": "Glute Bridges",
+        "instructions": "Lie on your back with knees bent and lift your hips towards the ceiling."
+      },
+      {
+        "name": "Wall Sit",
+        "instructions": "Lean against a wall and slide down until your thighs are parallel to the ground."
+      },
+      {
+        "name": "Step-Ups",
+        "instructions": "Step up onto a bench or chair and then step back down."
+      },
+      {
+        "name": "Bulgarian Split Squats",
+        "instructions": "Place one foot behind you on a bench and lower your front leg into a squat."
+      },
+      {
+        "name": "Sumo Squats",
+        "instructions": "Stand with feet wider than shoulder-width apart and squat while keeping your knees over your toes."
+      },
+      {
+        "name": "Donkey Kicks",
+        "instructions": "On all fours, kick one leg up towards the ceiling, keeping the knee bent."
+      },
+      {
+        "name": "Side Lunges",
+        "instructions": "Step to the side and lower your hips while keeping your other leg straight."
+      },
+      {
+        "name": "Pistol Squats",
+        "instructions": "Perform a squat on one leg while the other leg is extended forward."
+      },
+      {
+        "name": "Single-Leg Deadlifts",
+        "instructions": "Stand on one leg, bend forward at the waist, and lower your torso while extending your other leg back."
+      },
+      {
+        "name": "Curtsy Lunges",
+        "instructions": "Step one leg behind and across your body as if you were curtsying."
+      },
+      {
+        "name": "Frog Jumps",
+        "instructions": "Jump forward, landing in a deep squat, and then jump again."
+      },
+      {
+        "name": "High Knees",
+        "instructions": "Run in place while lifting your knees as high as possible."
+      },
+      {
+        "name": "Broad Jumps",
+        "instructions": "Jump forward as far as you can from a standing position, landing softly."
+      },
+      {
+        "name": "Box Jumps",
+        "instructions": "Jump from the ground onto a sturdy box or bench, landing with both feet."
+      },
+      {
+        "name": "Reverse Lunges",
+        "instructions": "Step backward into a lunge, then return to standing position."
+      },
+      {
+        "name": "Mountain Climbers",
+        "instructions": "In a plank position, alternate bringing your knees to your chest as if you're running in place."
+      }
+    ]
+  }
+  
