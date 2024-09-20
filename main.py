@@ -1,6 +1,6 @@
 import tkinter as tk
 from tkinter import ttk, messagebox
-from Pillow import Image, ImageTk
+from PIL import Image, ImageTk
 from modules.data_manager import DataManager
 from modules.exercise_generator import ExerciseGenerator
 from modules.quote_generator import QuoteGenerator

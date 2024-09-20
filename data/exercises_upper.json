@@ -1,0 +1,65 @@
+{
+    "upper": [
+      {
+        "name": "Push-ups",
+        "instructions": "Keep your back straight and lower your body until your chest nearly touches the floor."
+      },
+      {
+        "name": "Pull-ups",
+        "instructions": "Hang from a bar with hands shoulder-width apart and pull your body up until your chin is above the bar."
+      },
+      {
+        "name": "Plank Shoulder Taps",
+        "instructions": "In a plank position, tap each shoulder with the opposite hand while maintaining a stable core."
+      },
+      {
+        "name": "Tricep Dips",
+        "instructions": "Use a sturdy chair, lower your body by bending your elbows, and push back up."
+      },
+      {
+        "name": "Arm Circles",
+        "instructions": "Extend your arms out to the sides and make small to large circles."
+      },
+      {
+        "name": "Diamond Push-ups",
+        "instructions": "Place your hands close together under your chest in a diamond shape and perform a push-up."
+      },
+      {
+        "name": "Chest Fly",
+        "instructions": "Lying on your back, hold weights above your chest and lower your arms out to the sides, then bring them back together."
+      },
+      {
+        "name": "Renegade Rows",
+        "instructions": "In a plank position, row one arm up with a dumbbell while keeping your body stable."
+      },
+      {
+        "name": "Pike Push-ups",
+        "instructions": "From a downward-facing dog position, lower your head to the ground and push back up."
+      },
+      {
+        "name": "Overhead Press",
+        "instructions": "Press weights overhead while standing or seated."
+      },
+      {
+        "name": "Plank to Push-up",
+        "instructions": "Start in a plank position, lower yourself onto your forearms, then push back up to your hands."
+      },
+      {
+        "name": "Lateral Raises",
+        "instructions": "Hold weights at your sides and raise your arms out to shoulder height, then lower back down."
+      },
+      {
+        "name": "Inchworms",
+        "instructions": "From standing, walk your hands out into a plank, do a push-up, then walk your hands back."
+      },
+      {
+        "name": "Bench Dips",
+        "instructions": "With your hands on a bench and your feet on the ground, lower your hips while bending your elbows, and then push back up."
+      },
+      {
+        "name": "Bear Crawls",
+        "instructions": "Crawl forward on your hands and feet while keeping your hips low and your back straight."
+      }
+    ]
+  }
+  
