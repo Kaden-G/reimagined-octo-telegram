@@ -1,42 +1,122 @@
 {
-    "Andrew_Bernard": [
-      "I wish there was a way to know you’re in the good old days before you’ve actually left them.",
-      "Rit dit dit di doo!",
-      "I’m always thinking one step ahead, like a... carpenter... that makes stairs.",
-      "Sorry I annoyed you with my friendship.",
-      "I went to Cornell. Ever heard of it?"
-    ],
-    "Daryl": [
-      "You know what you should do? Take her to a coffeehouse... it’s like something Jim would do.",
-      "I taught Mike some phrases to help with his interracial conversations.",
-      "You don't have to like me. I’m not a princess.",
-      "I am aware of the effect I have on women.",
-      "You can't be the boss of me."
-    ],
-    "Jan_Levinson": [
-      "I am very busy today. I have a lot of work.",
-      "Michael, it is not my job to manage your feelings.",
-      "I guess I underestimated you.",
-      "I am feeling a lot of emotions.",
-      "The fact that we were so right together makes it all the more confusing."
-    ],
-    "Kevin_Malone": [
-      "I just want to lie on the beach and eat hot dogs. That’s all I’ve ever wanted.",
-      "I want to eat pigs in a blanket... in a blanket.",
-      "I hear Angela’s cats are in her will.",
-      "I’m a textbook overthinker.",
-      "Why waste time say lot word when few word do trick?"
-    ],
-    "Pam_Beasley": [
-      "I feel God in this Chili’s tonight.",
-      "There’s a lot of beauty in ordinary things. Isn’t that kind of the point?",
-      "I’m in love with you.",
-      "I hate the idea that someone out there hates me. I even hate thinking that Al-Qaeda hates me.",
-      "I’m gonna start telling people what I want, directly. No hinting around."
-    ],
-    "Stanley_Hudson": [
-      "Did I stutter?",
-      "Boy, have you lost your mind? Cause I’ll help you find it.",
-      "I wake up"
-    ]
+  "Andrew_Bernard": [
+    "I wish there was a way to know you’re in the good old days before you’ve actually left them.",
+    "Rit dit dit di doo!",
+    "I’m always thinking one step ahead, like a... carpenter... that makes stairs.",
+    "Sorry I annoyed you with my friendship.",
+    "I went to Cornell. Ever heard of it?"
+  ],
+  "Angela_Martin": [
+    "I find the mystery genre disgusting. I hate being titillated.",
+    "THE THOUGHT OF POPPING ONE OF YOUR BEETS INTO MY MOUTH MAKES ME WANT TO VOMIT.",
+    "I DON’T HAVE A HEADACHE. I’M JUST PREPARING.",
+    "Save Bandit!",
+    "Looks like someone took the slow train from Philly."
+  ],
+  "Creed_Bratton": [
+    "Oh, you’re paying way too much for worms, man. Who’s your worm guy?",
+    "I already won the lottery. I was born in the US of A, baby. And as backup, I have a Swiss passport.",
+    "When Pam gets Michael’s old chair, I get Pam’s old chair. Then I’ll have two chairs. Only one to go.",
+    "If I can't scuba, then what's this all been about?",
+    "So there I am, minding my own business, and Darnell offers me three bucks. All I gotta do is walk by Andy and go like this. [makes throat cutting gesture] Darnell's a chump. I would've done it for anything. I've done a lot more for a lot less."
+  ],
+  "Daryl": [
+    "Bippity Boppity Give Me The Zoppity",
+    "Sitting On Your Biscuit, Never Having To Risk It.",
+    "Are You Wearing Lady Clothes?",
+    "Woah! That person has really gotten him or herself into quite a predicament.",
+    "I don't wanna prank anymore. Things get real. It's not funny. I'm just gonna be good, stay in my room, go to church, try to do one nice thing per day."
+  ],
+  "Dwight_Schrute": [
+    "I am faster than 80 percent of all snakes.",
+    "PowerPoints are the peacocks of the business world; all show, no meat.",
+    "Who is Justice Beaver?",
+    "Today, smoking is going to save lives.",
+    "Let me show you how a real man walks a flaccid cord."
+  ],
+  "Gabe_Lewis": [
+    "Shut up about the sun!",
+    "Toby, I'm gonna tell you her last name tomorrow... cause she's gonna be screaming it tonight.",
+    "Oh, so you like Songs of Hate written by the Klu Klux Klan!? Erin, are you hearing this?",
+    "No one is a bigger fan of sexually touching than me.",
+    "It’s not about strength, it’s about skill. I’m taking karate classes online."
+  ],
+  "Jan_Levinson": [
+    "You know Pam, in Spain, they often don't even start eating until midnight.",
+    "**sigh**",
+    "I am taking a calculated risk. What's the upside? I overcome my nausea, fall deeply in love, babies, normalcy, no more self-loathing. Downside, I date Michael Scott publicly and collapse in on myself like a dying star.",
+    "What do you think…the…pros…are…here?",
+    "Why is this so hard?...that's what she said."
+  ],
+  "Jim_Halpert": [
+    "One day Michael came in and complained about a speed bump on the highway...I wonder who he ran over then.",
+    "I am about to do something very bold in this job that I’ve never done before: try.",
+    "I am a black belt in gift wrapping.",
+    "Right now, this is just a job. If I advance any higher in this company, this would be my career. And, uh, well if this were my career, I’d have to throw myself in front of a train.",
+    "I'm not a slacker, I just take my time."
+  ],
+  "Kelly_Kapoor": [
+    "Yeah, I have a lot of questions. First of all: How dare you?",
+    "Who says exactly what they’re thinking? What kind of a game is that?",
+    "Sometimes I get so bored, I just want to scream. And then sometimes, I actually do scream. I just sort of feel out what the situation calls for.",
+    "I mean, I’m not a slut, but, who knows!",
+    "I talk a lot, so I've learned to just tune myself out."
+  ],
+  "Kevin_Malone": [
+    "I just want to lie on the beach and eat hot dogs. That’s all I’ve ever wanted.",
+    "I want to eat pigs in a blanket... in a blanket.",
+    "I hear Angela’s cats are in her will.",
+    "I’m a textbook overthinker.",
+    "Why waste time say lot word when few word do trick?"
+  ],
+  "Michael_Scott": [
+    "Would I rather be feared or loved? Easy. Both. I want people to be afraid of how much they love me.",
+    "I knew exactly what to do. But in a much more real sense, I had no idea what to do.",
+    "Sometimes I'll start a sentence and I don't even know where it's going. I just hope I find it along the way. Like an improv conversation.",
+    "I am Beyoncé, always.",
+    "I’m an early bird and I’m a night owl. So I’m wise, and I have worms."
+  ],
+  "Oscar_Martinez": [
+    "I consider myself a good person...but I'm gonna try to make him cry.",
+    "The Dunder Mifflin stock symbol is D.M.I. Do you know what that stands for? Dummies, Morons, and Idiots. Because that’s what you’d have to be to own it. And as one of those idiots, I believe the board owes me answers.",
+    "I just need to know at what point in the evening we are no longer Michael’s coworkers, and now we’re his friends.",
+    "Your gayness does not define you. Your Mexican-ness is what defines you to me.",
+    "You give me the creeps."
+  ],
+  "Pam_Beasley": [
+    "I feel God in this Chili’s tonight.",
+    "How is it possible that in five years, I’ve had two engagements and only one chair?",
+    "I’m in love with you.",
+    "I hate the idea that someone out there hates me. I even hate thinking that Al-Qaeda hates me.",
+    "I’m gonna start telling people what I want, directly. No hinting around."
+  ],
+  "Phyllis_Vance": [
+    "I wonder what people like about me. Probably my jugs.",
+    "Someone needs to clean it, it smells like pop-carn.",
+    "Oh yeah, you'll have to put out.",
+    "Bob Vance bought this perfume for me in Metropolitan Orlando. It’s made from real pine.",
+    "Close your mouth, sweetie, you look like a trout."
+  ],
+  "Ryan_Howard": [
+    "I miss the days when there was only one party I didn't want to go to.",
+    "A few years ago, my family was on a safari in Africa and my cousin, Mufasa, was um, he was trampled to death by a pack of wildebeests and um, we all took it really hard.",
+    "Now that I’ve quit the rat race I realize there’s so much more to life than being the youngest VP in the company’s history.",
+    "WUPHF.com, check it out.",
+    "I’d rather she be alone than with somebody. Is that love?"
+  ],
+  "Stanley_Hudson": [
+    "If I don't have some cake soon, I might die.",
+    "I wake up every morning in a bed that’s too small, drive my daughter to a school that’s too expensive, and then I go to work to a job for which I get paid too little. But on pretzel day? Well, I like pretzel day.",
+    "I have been trying to get on jury duty every year since I was 18 years old. To get to go sit in an air-conditioned room, downtown, judging people, while my lunch is paid for… That is the life.",
+    "Florida Stanley smiles, Florida Stanley is happy to go to work, Florida Stanley is who you want on your Florida team.",
+    "Shove it up your butt!"
+  ],
+  "Toby_Flenderson": [
+    "If I had a gun, with two bullets, and I was in a room with Hitler, Bin Laden, and Toby, I would shoot Toby twice.",
+    "Why are you the way that you are? Honestly, every time I try to do something fun or exciting, you make it not that way. I hate so much about the things that you choose to be.",
+    "I have cause. It’s be-cause I hate him.",
+    "I tried. I tried to talk to Toby and be his friend, but that is like trying to be friends with an evil snail.",
+    "You are the silent killer."
+  ]
 }
+

@@ -42,7 +42,10 @@ class ImageHandler:
         # Ensure the image exists, then load and resize it
         try:
             image = Image.open(path)
-            image = image.resize(size, Image.ANTIALIAS)
+
+            # Replace ANTIALIAS with Resampling.LANCZOS
+            image = image.resize(size, Image.Resampling.LANCZOS)
+
             return ImageTk.PhotoImage(image)
         except Exception as e:
             print(f"Error loading image for {character}: {e}")
