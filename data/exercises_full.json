@@ -1,0 +1,105 @@
+{
+    "full_body": [
+      {
+        "name": "Jumping Jacks",
+        "muscle_group": ["Full Body", "Cardio"],
+        "instructions": "Start standing with your feet together and arms at your sides. Jump your feet out while raising your arms overhead, then jump back to the starting position."
+      },
+      {
+        "name": "Sit-ups",
+        "muscle_group": ["Core", "Abdominals"],
+        "instructions": "Lie on your back with your knees bent and feet flat on the floor. Curl your torso up toward your thighs, then lower back down."
+      },
+      {
+        "name": "Crunches",
+        "muscle_group": ["Core", "Abdominals"],
+        "instructions": "Lie on your back with knees bent and feet flat on the floor. Lift your shoulder blades off the ground, squeezing your abs, then lower back down."
+      },
+      {
+        "name": "Flutter Kicks",
+        "muscle_group": ["Core", "Hip Flexors"],
+        "instructions": "Lie on your back with your legs extended. Lift your legs slightly off the ground and alternate kicking them up and down in a controlled motion."
+      },
+      {
+        "name": "V-ups",
+        "muscle_group": ["Core", "Abdominals", "Hip Flexors"],
+        "instructions": "Lie on your back with arms extended overhead. Simultaneously lift your legs and torso to meet in the middle, then lower back down."
+      },
+      {
+        "name": "Leg Raises",
+        "muscle_group": ["Core", "Abdominals", "Hip Flexors"],
+        "instructions": "Lie flat on your back with your legs straight. Lift your legs up toward the ceiling, keeping them straight, and then lower them back down without touching the floor."
+      },
+      {
+        "name": "Bicycle Crunches",
+        "muscle_group": ["Core", "Abdominals", "Obliques"],
+        "instructions": "Lie on your back with your hands behind your head. Alternate bringing each elbow toward the opposite knee in a bicycle pedaling motion."
+      },
+      {
+        "name": "Russian Twists",
+        "muscle_group": ["Core", "Obliques"],
+        "instructions": "Sit on the floor with your knees bent and feet off the ground. Twist your torso to the right and left while keeping your core engaged."
+      },
+      {
+        "name": "Superman",
+        "muscle_group": ["Lower Back", "Glutes", "Shoulders"],
+        "instructions": "Lie face down, extend your arms forward, and lift your arms and legs off the ground simultaneously, holding the position briefly before lowering."
+      },
+      {
+        "name": "Reverse Crunches",
+        "muscle_group": ["Core", "Abdominals"],
+        "instructions": "Lie on your back with your knees bent. Lift your legs toward your chest, bringing your hips off the ground, then lower back down."
+      },
+      {
+        "name": "Toe Touches",
+        "muscle_group": ["Core", "Abdominals"],
+        "instructions": "Lie on your back with legs extended toward the ceiling. Reach your arms up to touch your toes, lifting your shoulder blades off the floor."
+      },
+      {
+        "name": "Warrior II",
+        "muscle_group": ["Legs", "Core", "Shoulders"],
+        "instructions": "Step one foot back, bend the front knee, and extend your arms parallel to the floor while keeping your torso upright."
+      },
+      {
+        "name": "Chair Pose",
+        "muscle_group": ["Legs", "Core", "Shoulders"],
+        "instructions": "Stand with feet together, bend your knees and lower your hips as if sitting in a chair, while extending your arms overhead."
+      },
+      {
+        "name": "Cobra Pose",
+        "muscle_group": ["Core", "Lower Back"],
+        "instructions": "Lie face down, place your hands under your shoulders, and push your torso upward while keeping your hips on the floor."
+      },
+      {
+        "name": "Child's Pose",
+        "muscle_group": ["Lower Back", "Hips", "Shoulders"],
+        "instructions": "Kneel on the floor, sit back on your heels, and stretch your arms forward, lowering your torso towards the ground."
+      },
+      {
+        "name": "Bridge Pose",
+        "muscle_group": ["Glutes", "Lower Back"],
+        "instructions": "Lie on your back with knees bent and feet flat on the floor. Lift your hips toward the ceiling while squeezing your glutes."
+      },
+      {
+        "name": "Cat-Cow Pose",
+        "muscle_group": ["Spine", "Core", "Neck"],
+        "instructions": "Start on all fours. Arch your back up (Cat), then lower your belly down and lift your chest (Cow), moving between the two."
+      },
+      {
+        "name": "Standing Forward Bend",
+        "muscle_group": ["Hamstrings", "Lower Back"],
+        "instructions": "Stand with your feet together, bend at the hips, and reach your hands toward your feet while keeping your legs straight."
+      },
+      {
+        "name": "Seated Twist",
+        "muscle_group": ["Spine", "Obliques"],
+        "instructions": "Sit on the floor with your legs extended, bend one knee, and twist your torso toward the bent leg while keeping your back straight."
+      },
+      {
+        "name": "Boat Pose",
+        "muscle_group": ["Core", "Hip Flexors"],
+        "instructions": "Sit on the floor, lean back slightly, lift your legs off the ground, and hold your arms out in front of you, creating a V-shape with your body."
+      }
+    ]
+  }
+  

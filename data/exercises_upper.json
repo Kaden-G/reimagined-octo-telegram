@@ -1,64 +1,49 @@
 {
     "upper": [
       {
-        "name": "Push-ups",
-        "instructions": "Keep your back straight and lower your body until your chest nearly touches the floor."
+        "name": "Wall Push-ups",
+        "muscle_group": ["Chest", "Triceps", "Shoulders"],
+        "instructions": "Stand facing a wall, place your hands on the wall at shoulder height, and perform a push-up while keeping your body straight."
       },
       {
-        "name": "Pull-ups",
-        "instructions": "Hang from a bar with hands shoulder-width apart and pull your body up until your chin is above the bar."
+        "name": "Hindu Push-ups",
+        "muscle_group": ["Chest", "Shoulders", "Triceps"],
+        "instructions": "Start in a downward dog position, swoop your chest towards the floor, then push forward into an upward dog position."
       },
       {
-        "name": "Plank Shoulder Taps",
-        "instructions": "In a plank position, tap each shoulder with the opposite hand while maintaining a stable core."
+        "name": "Decline Push-ups",
+        "muscle_group": ["Upper Chest", "Shoulders", "Triceps"],
+        "instructions": "Place your feet on an elevated surface like a bench and perform a push-up to focus more on the upper chest."
       },
       {
-        "name": "Tricep Dips",
-        "instructions": "Use a sturdy chair, lower your body by bending your elbows, and push back up."
+        "name": "Close-Grip Push-ups",
+        "muscle_group": ["Triceps", "Chest"],
+        "instructions": "Place your hands closer together under your chest and perform a push-up to target the triceps more than the chest."
+      },
+      {
+        "name": "Side Planks",
+        "muscle_group": ["Obliques", "Shoulders"],
+        "instructions": "Lie on your side with your legs straight, propped up on one forearm. Lift your hips to form a straight line from head to feet, holding the position."
+      },
+      {
+        "name": "Modified Plank Hold",
+        "muscle_group": ["Shoulders", "Core"],
+        "instructions": "Start in a forearm plank position, keep your body straight from head to toes, and hold the position while engaging your core and shoulders."
       },
       {
         "name": "Arm Circles",
-        "instructions": "Extend your arms out to the sides and make small to large circles."
-      },
-      {
-        "name": "Diamond Push-ups",
-        "instructions": "Place your hands close together under your chest in a diamond shape and perform a push-up."
-      },
-      {
-        "name": "Chest Fly",
-        "instructions": "Lying on your back, hold weights above your chest and lower your arms out to the sides, then bring them back together."
-      },
-      {
-        "name": "Renegade Rows",
-        "instructions": "In a plank position, row one arm up with a dumbbell while keeping your body stable."
-      },
-      {
-        "name": "Pike Push-ups",
-        "instructions": "From a downward-facing dog position, lower your head to the ground and push back up."
-      },
-      {
-        "name": "Overhead Press",
-        "instructions": "Press weights overhead while standing or seated."
+        "muscle_group": ["Shoulders"],
+        "instructions": "Stand with arms extended to the sides and make small circles forward, then backward, keeping your shoulders tight."
       },
       {
         "name": "Plank to Push-up",
-        "instructions": "Start in a plank position, lower yourself onto your forearms, then push back up to your hands."
-      },
-      {
-        "name": "Lateral Raises",
-        "instructions": "Hold weights at your sides and raise your arms out to shoulder height, then lower back down."
+        "muscle_group": ["Shoulders", "Triceps", "Core"],
+        "instructions": "Start in a plank position on your forearms, then push up to your hands one at a time and return to the plank. Alternate arms with each rep."
       },
       {
         "name": "Inchworms",
-        "instructions": "From standing, walk your hands out into a plank, do a push-up, then walk your hands back."
-      },
-      {
-        "name": "Bench Dips",
-        "instructions": "With your hands on a bench and your feet on the ground, lower your hips while bending your elbows, and then push back up."
-      },
-      {
-        "name": "Bear Crawls",
-        "instructions": "Crawl forward on your hands and feet while keeping your hips low and your back straight."
+        "muscle_group": ["Shoulders", "Core", "Hamstrings"],
+        "instructions": "Start standing, bend down and walk your hands forward into a push-up position, perform a push-up, and walk your hands back to standing."
       }
     ]
   }

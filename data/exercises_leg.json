@@ -1,85 +1,104 @@
 {
-    "leg": [
-      {
-        "name": "Squats",
-        "instructions": "Stand with feet shoulder-width apart and lower your hips back and down."
-      },
-      {
-        "name": "Lunges",
-        "instructions": "Step forward with one leg and lower your hips until both knees are bent at 90 degrees."
-      },
-      {
-        "name": "Jumping Jacks",
-        "instructions": "Jump to a position with legs spread and hands overhead, then return to the starting position."
-      },
-      {
-        "name": "Calf Raises",
-        "instructions": "Stand on the edge of a step, rise onto your toes, and slowly lower back down."
-      },
-      {
-        "name": "Glute Bridges",
-        "instructions": "Lie on your back with knees bent and lift your hips towards the ceiling."
-      },
-      {
-        "name": "Wall Sit",
-        "instructions": "Lean against a wall and slide down until your thighs are parallel to the ground."
-      },
-      {
-        "name": "Step-Ups",
-        "instructions": "Step up onto a bench or chair and then step back down."
-      },
-      {
-        "name": "Bulgarian Split Squats",
-        "instructions": "Place one foot behind you on a bench and lower your front leg into a squat."
-      },
-      {
-        "name": "Sumo Squats",
-        "instructions": "Stand with feet wider than shoulder-width apart and squat while keeping your knees over your toes."
-      },
-      {
-        "name": "Donkey Kicks",
-        "instructions": "On all fours, kick one leg up towards the ceiling, keeping the knee bent."
-      },
-      {
-        "name": "Side Lunges",
-        "instructions": "Step to the side and lower your hips while keeping your other leg straight."
-      },
-      {
-        "name": "Pistol Squats",
-        "instructions": "Perform a squat on one leg while the other leg is extended forward."
-      },
-      {
-        "name": "Single-Leg Deadlifts",
-        "instructions": "Stand on one leg, bend forward at the waist, and lower your torso while extending your other leg back."
-      },
-      {
-        "name": "Curtsy Lunges",
-        "instructions": "Step one leg behind and across your body as if you were curtsying."
-      },
-      {
-        "name": "Frog Jumps",
-        "instructions": "Jump forward, landing in a deep squat, and then jump again."
-      },
-      {
-        "name": "High Knees",
-        "instructions": "Run in place while lifting your knees as high as possible."
-      },
-      {
-        "name": "Broad Jumps",
-        "instructions": "Jump forward as far as you can from a standing position, landing softly."
-      },
-      {
-        "name": "Box Jumps",
-        "instructions": "Jump from the ground onto a sturdy box or bench, landing with both feet."
-      },
-      {
-        "name": "Reverse Lunges",
-        "instructions": "Step backward into a lunge, then return to standing position."
-      },
-      {
-        "name": "Mountain Climbers",
-        "instructions": "In a plank position, alternate bringing your knees to your chest as if you're running in place."
-      }
-    ]
-  }
-  
+  "leg": [
+    {
+      "name": "Squats",
+      "muscle_group": ["Quadriceps", "Hamstrings", "Glutes"],
+      "instructions": "Stand with your feet shoulder-width apart, lower your hips back and down until your thighs are parallel to the floor, then stand back up."
+    },
+    {
+      "name": "Lunges",
+      "muscle_group": ["Quadriceps", "Hamstrings", "Glutes"],
+      "instructions": "Step forward with one leg and lower your hips until both knees are at 90 degrees, then push back to the starting position."
+    },
+    {
+      "name": "Step-ups",
+      "muscle_group": ["Quadriceps", "Glutes"],
+      "instructions": "Step onto a raised surface with one foot, driving through your heel to lift your body, then step back down and repeat on the other side."
+    },
+    {
+      "name": "Bulgarian Split Squats",
+      "muscle_group": ["Quadriceps", "Glutes", "Hamstrings"],
+      "instructions": "Place one foot behind you on a bench or chair, lower your hips while keeping your front knee over your ankle, then push back up."
+    },
+    {
+      "name": "Glute Bridges",
+      "muscle_group": ["Glutes", "Hamstrings"],
+      "instructions": "Lie on your back with knees bent and feet flat on the floor, lift your hips up while squeezing your glutes, and lower back down."
+    },
+    {
+      "name": "Calf Raises",
+      "muscle_group": ["Calves"],
+      "instructions": "Stand with your feet hip-width apart, lift your heels off the ground, hold for a second, and lower back down."
+    },
+    {
+      "name": "Wall Sits",
+      "muscle_group": ["Quadriceps", "Glutes"],
+      "instructions": "Stand against a wall, slide down until your knees are at 90 degrees, and hold the position for as long as possible."
+    },
+    {
+      "name": "Curtsy Lunges",
+      "muscle_group": ["Quadriceps", "Glutes"],
+      "instructions": "Step one leg behind and across your body into a curtsy position, lower down, then return to standing and repeat on the other side."
+    },
+    {
+      "name": "Jump Squats",
+      "muscle_group": ["Quadriceps", "Hamstrings", "Glutes"],
+      "instructions": "Perform a squat, then explode upward into a jump, landing softly and immediately lowering into the next squat."
+    },
+    {
+      "name": "Reverse Lunges",
+      "muscle_group": ["Quadriceps", "Glutes", "Hamstrings"],
+      "instructions": "Step backward with one leg and lower your hips until your front knee is at 90 degrees, then push back to standing."
+    },
+    {
+      "name": "Pistol Squats (Assisted)",
+      "muscle_group": ["Quadriceps", "Glutes"],
+      "instructions": "Stand on one leg, lower your body while extending the other leg forward, and return to standing. Use a support if needed."
+    },
+    {
+      "name": "Side Lunges",
+      "muscle_group": ["Quadriceps", "Glutes", "Inner Thighs"],
+      "instructions": "Step out to the side, bend the knee of the stepping leg while keeping the other leg straight, then return to standing."
+    },
+    {
+      "name": "Donkey Kicks",
+      "muscle_group": ["Glutes", "Hamstrings"],
+      "instructions": "Start on all fours, kick one leg back and up while squeezing your glutes, then lower back down and switch sides."
+    },
+    {
+      "name": "Fire Hydrants",
+      "muscle_group": ["Glutes", "Hip Abductors"],
+      "instructions": "Start on all fours, lift one leg out to the side while keeping the knee bent, then lower back down and switch sides."
+    },
+    {
+      "name": "Frog Jumps",
+      "muscle_group": ["Quadriceps", "Glutes", "Hamstrings"],
+      "instructions": "Squat down, then jump forward explosively while landing softly, repeating in a continuous motion."
+    },
+    {
+      "name": "Single-Leg Glute Bridges",
+      "muscle_group": ["Glutes", "Hamstrings"],
+      "instructions": "Lie on your back with one leg extended, lift your hips by driving through the heel of the bent leg, then lower back down."
+    },
+    {
+      "name": "Skater Hops",
+      "muscle_group": ["Glutes", "Quadriceps", "Calves"],
+      "instructions": "Hop laterally from one foot to the other, landing on the opposite foot while keeping your body low and controlled."
+    },
+    {
+      "name": "Sissy Squats",
+      "muscle_group": ["Quadriceps"],
+      "instructions": "Stand with feet shoulder-width apart, lean back slightly while bending your knees and lowering your body, then return to standing."
+    },
+    {
+      "name": "Bear Crawl",
+      "muscle_group": ["Quadriceps", "Shoulders", "Core"],
+      "instructions": "Start on all fours, lift your knees off the ground, and crawl forward using opposite arm and leg movements."
+    },
+    {
+      "name": "Cossack Squats",
+      "muscle_group": ["Quadriceps", "Hamstrings", "Glutes"],
+      "instructions": "Step one foot out to the side, lower your hips into a deep squat on that leg while keeping the other leg extended."
+    }
+  ]
+}
